@@ -1,0 +1,12 @@
+https://openei.org/wiki/Information
+https://openei.org/wiki/Data
+https://openei.org/wiki/Map_of_Wind_Farms
+https://openei.org/wiki/Map_of_Wind_Farms/Data
+https://link.springer.com/article/10.1186/s40537-017-0070-y "DOI 10.1186/s40537-017-0070-y"
+https://netvent.com/big-data-nedir/
+http://www.prowmes.com/blog/akilli-sebeke-nedir/
+https://smartgrid.ieee.org/images/files/pdf/big_data_analytics_white_paper.pdf
+http://www.windturbinestar.com/monopole-tower.html
+https://www.usgs.gov/about/about-us
+https://www.kaggle.com/kumarmanish/wind-turbine-data-analysis/log
+https://chesterenergyandpolicy.com/2018/05/29/making-energy-data-a-breeze-the-u-s-wind-turbine-database/
